@@ -1,0 +1,123 @@
+Best fit sample -log(Like) = 2379.773200
+mean(-Ln(like)) = 2399.502658
+-Ln(mean like)  = 2390.453025
+
+parameter                                    bestfit        lower1         upper1         lower2         upper2
+logA                                         3.0384258E+00  3.0996676E+00 4.6889615E-310  3.1119778E+00  0.0000000E+00   \log(10^{10} A_\mathrm{s})
+ns                                           9.6570706E-01  9.8210879E-01  0.0000000E+00  9.8236910E-01  0.0000000E+00   n_\mathrm{s}
+theta_MC_100                                 1.0409633E+00  1.0419982E+00 4.6889610E-310  1.0420173E+00  0.0000000E+00   100\theta_\mathrm{MC}
+ombh2                                        2.2365718E-02  2.2898634E-02  0.0000000E+00  2.2960533E-02  0.0000000E+00   \Omega_\mathrm{b} h^2
+omch2                                        1.1936225E-01  1.2560380E-01 4.6889614E-310  1.2560380E-01  0.0000000E+00   \Omega_\mathrm{c} h^2
+mnu                                          1.3577527E-01  7.4833212E-01  0.0000000E+00  9.8183155E-01  0.0000000E+00   \Sigma m_{\nu}
+w                                           -1.5059323E+00 -3.3334693E-01 4.6889615E-310 -3.3334693E-01  0.0000000E+00   w
+wa                                          -1.9799011E+00  1.8902445E+00  0.0000000E+00  1.9222846E+00  0.0000000E+00   wa
+tau                                          5.1402037E-02  8.0850158E-02 4.6889613E-310  8.8633904E-02  0.0000000E+00   \tau_\mathrm{reio}
+A_planck                                     1.0008939E+00  1.0094758E+00  0.0000000E+00  1.0099418E+00  0.0000000E+00   y_\mathrm{cal}
+calib_100T                                   9.9966855E-01  1.0021234E+00  0.0000000E+00  1.0022299E+00  0.0000000E+00   c_{100}
+calib_217T                                   9.9831978E-01  1.0010148E+00 6.9370052E-310  1.0010148E+00 6.9370052E-310   c_{217}
+A_cib_217                                    5.4544677E+01  8.0829336E+01  0.0000000E+00  8.0829336E+01  0.0000000E+00   A^\mathrm{CIB}_{217}
+xi_sz_cib                                    4.0841294E-01  9.9999899E-01 6.9370052E-310  9.9999899E-01 6.9370052E-310   \xi^{\mathrm{tSZ}\times\mathrm{CIB}}
+A_sz                                         7.6847076E+00  9.9973107E+00 6.9370052E-310  9.9996953E+00 6.9370052E-310   A^\mathrm{tSZ}_{143}
+ksz_norm                                     1.7778783E+00  9.9998299E+00 6.9370052E-310  9.9998299E+00 6.9370052E-310   A^\mathrm{kSZ}
+gal545_A_100                                 8.9315537E+00  1.6676660E+01  0.0000000E+00  1.6676660E+01  0.0000000E+00   A^\mathrm{dustTT}_{100}
+gal545_A_143                                 1.0112876E+01  1.7666669E+01 6.9370052E-310  1.8946149E+01 4.6889615E-310   A^\mathrm{dustTT}_{143}
+gal545_A_143_217                             1.9264350E+01  3.2777473E+01 6.9370052E-310  3.3595546E+01 6.9370052E-310   A^\mathrm{dustTT}_{\mathrm{143}\times\mathrm{217}}
+gal545_A_217                                 8.7539675E+01  1.2413002E+02  0.0000000E+00  1.2641223E+02  0.0000000E+00   A^\mathrm{dustTT}_{217}
+ps_A_100_100                                 2.5097289E+02  3.6800100E+02 6.9370052E-310  3.7359094E+02 4.6889615E-310   A^\mathrm{PS}_{100}
+ps_A_143_143                                 4.2987927E+01  8.0355708E+01 6.9370052E-310  8.0355708E+01 6.9370052E-310   A^\mathrm{PS}_{143}
+ps_A_143_217                                 4.2383092E+01  7.6372893E+01  0.0000000E+00  7.6621472E+01  0.0000000E+00   A^\mathrm{PS}_{\mathrm{143}\times\mathrm{217}}
+ps_A_217_217                                 1.0849060E+02  1.5403757E+02 6.9370052E-310  1.5583332E+02 4.6889615E-310   A^\mathrm{PS}_{217}
+galf_TE_A_100                                9.3540918E-02  2.7227842E-01 6.9370052E-310  2.8390723E-01 6.9370052E-310   A^\mathrm{dustTE}_{100}
+galf_TE_A_100_143                            1.2889193E-01  2.5457149E-01  0.0000000E+00  2.5457149E-01  0.0000000E+00   A^\mathrm{dustTE}_{\mathrm{100}\times\mathrm{143}}
+galf_TE_A_100_217                            4.8483827E-01  8.1451941E-01 6.9370052E-310  8.4228926E-01 4.6889615E-310   A^\mathrm{dustTE}_{\mathrm{100}\times\mathrm{217}}
+galf_TE_A_143                                1.7760869E-01  4.2953159E-01 6.9370052E-310  4.8921461E-01 4.6889615E-310   A^\mathrm{dustTE}_{143}
+galf_TE_A_143_217                            6.2949776E-01  9.9924290E-01 6.9370052E-310  1.0387291E+00 4.6889615E-310   A^\mathrm{dustTE}_{\mathrm{143}\times\mathrm{217}}
+galf_TE_A_217                                1.9670236E+00  3.1203371E+00 6.9370052E-310  3.1339311E+00 4.6889615E-310   A^\mathrm{dustTE}_{217}
+Kappa                                        5.2862144E-05  1.5439746E-03 6.9370052E-310  1.5569078E-03 4.6889614E-310   \kappa
+Tcal90                                       9.9969059E-01  1.0106482E+00 6.9370052E-310  1.0130824E+00 6.9370052E-310   T_{\rm cal}^{90}
+Tcal150                                      9.9817406E-01  1.0088477E+00 6.9370052E-310  1.0099889E+00 4.6889615E-310   T_{\rm cal}^{150}
+Tcal220                                      9.9373353E-01  1.0089328E+00 6.9370052E-310  1.0106291E+00 4.6889613E-310   T_{\rm cal}^{220}
+Ecal90                                       1.0003398E+00  1.0162077E+00 6.9370052E-310  1.0169273E+00 4.6889615E-310   E_{\rm cal}^{90}
+Ecal150                                      1.0031666E+00  1.0147568E+00 6.9370052E-310  1.0151609E+00 4.6889614E-310   E_{\rm cal}^{150}
+Ecal220                                      1.0196521E+00  1.0489312E+00 6.9370052E-310  1.0519771E+00 4.6889615E-310   E_{\rm cal}^{220}
+EE_Poisson_90x90                             3.1771976E-02  9.1087042E-02 6.9370052E-310  9.2554203E-02 4.6889615E-310   D^{\rm EE, Poisson, 90x90}_{3000}
+EE_Poisson_90x150                            1.9817423E-02  3.9725421E-02 6.9370052E-310  4.0623325E-02 6.9370052E-310   D^{\rm EE, Poisson, 90x150}_{3000}
+EE_Poisson_90x220                            1.5877584E-02  3.3211872E-02 6.9370052E-310  3.6855047E-02 4.6889614E-310   D^{\rm EE, Poisson, 90x220}_{3000}
+EE_Poisson_150x150                           1.4796345E-02  2.4611825E-02  0.0000000E+00  2.6035382E-02  0.0000000E+00   D^{\rm EE, Poisson, 150x150}_{3000}
+EE_Poisson_150x220                           2.0649347E-02  4.5736650E-02 6.9370052E-310  4.5997482E-02 6.9370052E-310   D^{\rm EE, Poisson, 150x220}_{3000}
+EE_Poisson_220x220                           5.4700702E-02  1.0175890E-01 6.9370052E-310  1.0944714E-01 6.9370052E-310   D^{\rm EE, Poisson, 220x220}_{3000}
+EE_PolGalDust_Amp                            4.1868612E-02  1.3939241E-01 6.9370052E-310  1.4961587E-01 6.9370052E-310   A^{\rm EE, PGD}_{80}
+EE_PolGalDust_Alpha                         -2.3493871E+00 -2.2554819E+00 6.9370052E-310 -2.2554819E+00 4.6889614E-310   \alpha^{\rm EE, PGD}
+EE_PolGalDust_Beta                           1.5073938E+00  1.6655701E+00  0.0000000E+00  1.6873140E+00  0.0000000E+00   \beta^{\rm EE, PGD}
+TE_PolGalDust_Amp                            1.2994374E-01  3.3987394E-01 6.9370052E-310  3.6027835E-01 6.9370052E-310   A^{\rm TE, PGD}_{80}
+TE_PolGalDust_Alpha                         -2.4268220E+00 -2.2616495E+00 6.9370052E-310 -2.2405441E+00 6.9370052E-310   \alpha^{\rm TE, PGD}
+TE_PolGalDust_Beta                           1.5319701E+00  1.6778536E+00 6.9370052E-310  1.6778536E+00 6.9370052E-310   \beta^{\rm TE, PGD}
+TT_Poisson_90x90                             6.1481892E+01  7.6151123E+01 6.9370052E-310  7.6151123E+01 4.6889615E-310   D^{\rm TT, Poisson, 90x90}_{3000}
+TT_Poisson_90x150                            2.6917617E+01  3.7213430E+01  0.0000000E+00  3.7235958E+01  0.0000000E+00   D^{\rm TT, Poisson, 90x150}_{3000}
+TT_Poisson_90x220                            2.4041311E+01  3.5911552E+01 6.9370052E-310  3.6475406E+01 6.9370052E-310   D^{\rm TT, Poisson, 90x220}_{3000}
+TT_Poisson_150x150                           1.6593659E+01  2.3854576E+01 6.9370052E-310  2.3904975E+01 6.9370052E-310   D^{\rm TT, Poisson, 150x150}_{3000}
+TT_Poisson_150x220                           2.9059900E+01  3.9939575E+01 6.9370052E-310  4.1523392E+01 6.9370052E-310   D^{\rm TT, Poisson, 150x220}_{3000}
+TT_Poisson_220x220                           7.6417786E+01  1.1257148E+02 6.9370052E-310  1.1510178E+02 4.6889615E-310   D^{\rm TT, Poisson, 220x220}_{3000}
+TT_GalCirrus_Amp                             2.3433392E+00  3.8199071E+00 6.9370052E-310  3.9519315E+00 6.9370052E-310   A^{\rm TT, cirrus}_{80}
+TT_GalCirrus_Alpha                          -2.4710062E+00 -2.3182962E+00 6.9370052E-310 -2.3076286E+00 6.9370052E-310   \alpha^{\rm TT, cirrus}
+TT_GalCirrus_Beta                            1.4786323E+00  1.5622331E+00 6.9370052E-310  1.5636787E+00 6.9370052E-310   \beta^{\rm TT, cirrus}
+TT_CIBClustering_Amp                         4.1054659E+00  1.0231331E+01 6.9370052E-310  1.0479129E+01 6.9370052E-310   A^{\rm TT, CIB clustering}_{3000}
+TT_CIBClustering_Beta                        2.1433522E+00  2.8932175E+00 6.9370052E-310  2.9385724E+00 4.6889615E-310   \beta^{\rm TT, CIB clustering}
+TT_tSZ_Amp                                   5.2174364E+00  9.4015201E+00 6.9370052E-310  9.8389866E+00 6.9370052E-310   A^{\rm tSZ}_{3000}
+TT_tSZ_CIB_corr                              3.5222669E-02  9.9387622E-01 6.9370052E-310  9.9978905E-01 6.9370052E-310   \xi^{\rm tSZ-CIB}
+TT_kSZ_Amp                                   3.2091426E+00  1.4920390E+01 6.9370052E-310  1.6740646E+01 6.9370052E-310   A^{\rm kSZ}_{3000}
+As*                                          2.0872360E-09  2.2190573E-09 6.9370052E-310  2.2465432E-09 6.9370052E-310   A_\mathrm{s}
+H0*                                          9.5892663E+01  9.9997500E+01 6.9370052E-310  9.9997500E+01 4.6889614E-310   H_0
+omegam*                                      1.5571680E-01  4.9933895E-01 6.9370052E-310  5.1013710E-01 6.9370052E-310   \Omega_\mathrm{m}
+omegamh2*                                    1.4318787E-01  1.5498715E-01 6.9370052E-310  1.5784510E-01 6.9370052E-310   \Omega_\mathrm{m} h^2
+omega_de*                                    8.4425631E-01  8.6047883E-01 6.9370052E-310  8.6047883E-01 6.9370052E-310   \Omega_\Lambda
+YHe*                                         2.4539717E-01  2.4560360E-01 6.9370052E-310  2.4563288E-01 6.9370052E-310   Y_\mathrm{P}
+Y_p*                                         2.4672370E-01  2.4693087E-01 6.9370052E-310  2.4696026E-01 4.6889615E-310   Y_P^\mathrm{BBN}
+DHBBN*                                       2.5863809E+00  2.7148036E+00 6.9370052E-310  2.7205223E+00 6.9370052E-310   10^5 \mathrm{D}/\mathrm{H}
+zrei*                                        7.3143421E+00  1.0189371E+01 6.9370052E-310  1.0809835E+01 6.9370052E-310   z_\mathrm{re}
+sigma8*                                      1.0276499E+00  1.0893625E+00 6.9370052E-310  1.0893625E+00 6.9370052E-310   \sigma_8
+s8h5*                                        1.0494276E+00  1.0939304E+00 6.9370052E-310  1.0971242E+00 6.9370052E-310   \sigma_8/h^{0.5}
+s8omegamp5*                                  4.0552058E-01  4.8802821E-01 6.9370052E-310  4.8802821E-01 4.6889615E-310   \sigma_8 \Omega_\mathrm{m}^{0.5}
+s8omegamp25*                                 6.4554874E-01  6.7344763E-01 6.9370052E-310  6.7567449E-01 6.9370052E-310   \sigma_8 \Omega_\mathrm{m}^{0.25}
+A*                                           2.0872360E+00  2.2190573E+00 6.9370052E-310  2.2465432E+00 6.9370052E-310   10^9 A_\mathrm{s}
+clamp*                                       1.8833209E+00  1.9262486E+00 6.9370052E-310  1.9262486E+00 6.9370052E-310   10^9 A_\mathrm{s} e^{-2\tau}
+age*                                         1.3441608E+01  1.4165098E+01 6.9370052E-310  1.4179366E+01 6.9370052E-310   {\rm{Age}}/\mathrm{Gyr}
+rdrag*                                       1.4726228E+02  1.4818722E+02 6.9370052E-310  1.4827035E+02 4.6889615E-310   r_\mathrm{drag}
+chi2__CMB*                                   4.6581730E+03  4.7034916E+03 6.9370052E-310  4.7130420E+03 6.9370052E-310   \chi^2_\mathrm{CMB}
+minuslogprior*                               5.0686674E+01  7.5518931E+01 6.9370052E-310  7.9812444E+01 6.9370052E-310   -\log\pi
+minuslogprior__0*                            6.9770031E+01  8.4682168E+01 6.9370052E-310  8.7517563E+01 6.9370052E-310   -\log\pi_\mathrm{0}
+minuslogprior__SZ*                           3.1795555E+00  1.1915075E+01 6.9370052E-310  1.1955686E+01 6.9370052E-310   -\log\pi_\mathrm{SZ}
+minuslogprior__Kappa_prior*                 -6.7804247E+00 -9.0125626E-01 6.9370052E-310 -6.7980438E-01 4.6889615E-310   -\log\pi_\mathrm{Kappa\ prior}
+minuslogprior__TT_Poisson_90x90_prior*       3.7432109E+00  6.6220726E+00 6.9370052E-310  6.6220726E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ Poisson\ 90x90\ prior}
+minuslogprior__TT_Poisson_90x150_prior*      3.0767325E+00  5.0489221E+00 6.9370052E-310  5.0555505E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ Poisson\ 90x150\ prior}
+minuslogprior__TT_Poisson_90x220_prior*      2.8569194E+00  5.9950063E+00 6.9370052E-310  6.2439765E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ Poisson\ 90x220\ prior}
+minuslogprior__TT_Poisson_150x150_prior*     2.3833237E+00  4.4580826E+00 6.9370052E-310  4.4832748E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ Poisson\ 150x150\ prior}
+minuslogprior__TT_Poisson_150x220_prior*     2.3662781E+00  6.1682639E+00 6.9370052E-310  7.2832655E+00 4.6889615E-310   -\log\pi_\mathrm{TT\ Poisson\ 150x220\ prior}
+minuslogprior__TT_Poisson_220x220_prior*     3.6182231E+00  6.6498781E+00 6.9370052E-310  7.0836182E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ Poisson\ 220x220\ prior}
+minuslogprior__TT_CIBClustering_Amp_prior*   1.6409239E+00  8.8095096E+00 6.9370052E-310  9.3339057E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ CIBClustering\ Amp\ prior}
+minuslogprior__TT_CIBClustering_Beta_prior*  5.2299091E-03  5.7833206E+00 6.9370052E-310  6.5843070E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ CIBClustering\ Beta\ prior}
+minuslogprior__TT_tSZ_Amp_prior*             2.1349822E+00  5.1590352E+00 6.9370052E-310  5.6542191E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ tSZ\ Amp\ prior}
+minuslogprior__TT_tSZ_CIB_corr_prior*       -8.3113889E-02  2.7875297E+00 6.9370052E-310  2.8307674E+00 4.6889615E-310   -\log\pi_\mathrm{TT\ tSZ\ CIB\ corr\ prior}
+minuslogprior__TT_kSZ_Amp_prior*             2.4607728E+00  5.3583828E+00 6.9370052E-310  6.3797898E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ kSZ\ Amp\ prior}
+minuslogprior__TT_GalCirrus_Amp_prior*       6.5086181E-01  8.3517222E+00 6.9370052E-310  9.5011588E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ GalCirrus\ Amp\ prior}
+minuslogprior__TT_GalCirrus_Alpha_prior*    -1.3807405E+00  6.8869074E+00 6.9370052E-310  8.3147212E+00 6.9370052E-310   -\log\pi_\mathrm{TT\ GalCirrus\ Alpha\ prior}
+minuslogprior__TT_GalCirrus_Beta_prior*     -2.9907462E+00  5.6420104E+00 6.9370052E-310  6.0504125E+00 4.6889614E-310   -\log\pi_\mathrm{TT\ GalCirrus\ Beta\ prior}
+minuslogprior__EE_Poisson_90x90_prior*      -3.2356606E+00  5.1988118E+00 6.9370052E-310  5.7099319E+00 6.9370052E-310   -\log\pi_\mathrm{EE\ Poisson\ 90x90\ prior}
+minuslogprior__EE_Poisson_90x150_prior*     -4.2464217E+00  3.7160060E+00 6.9370052E-310  4.3938086E+00 6.9370052E-310   -\log\pi_\mathrm{EE\ Poisson\ 90x150\ prior}
+minuslogprior__EE_Poisson_90x220_prior*     -4.4372904E+00  2.4414509E+00 6.9370052E-310  5.6052944E+00 4.6889614E-310   -\log\pi_\mathrm{EE\ Poisson\ 90x220\ prior}
+minuslogprior__EE_Poisson_150x150_prior*    -4.2926512E+00  2.4848844E+00 6.9370052E-310  4.1407250E+00 6.9370052E-310   -\log\pi_\mathrm{EE\ Poisson\ 150x150\ prior}
+minuslogprior__EE_Poisson_150x220_prior*    -4.2062970E+00  6.8247690E+00 6.9370052E-310  7.0416006E+00 6.9370052E-310   -\log\pi_\mathrm{EE\ Poisson\ 150x220\ prior}
+minuslogprior__EE_Poisson_220x220_prior*    -3.2055098E+00  3.8857507E+00 6.9370052E-310  6.0782237E+00 4.6889614E-310   -\log\pi_\mathrm{EE\ Poisson\ 220x220\ prior}
+minuslogprior__EE_PolGalDust_Amp_prior*     -2.8294691E+00  5.3573938E+00 6.9370052E-310  7.3535904E+00 6.9370052E-310   -\log\pi_\mathrm{EE\ PolGalDust\ Amp\ prior}
+minuslogprior__EE_PolGalDust_Beta_prior*    -2.2978147E+00  5.9407000E+00 6.9370052E-310  8.8869311E+00 6.9370052E-310   -\log\pi_\mathrm{EE\ PolGalDust\ Beta\ prior}
+minuslogprior__EE_PolGalDust_Alpha_prior*   -7.4175633E-01  6.1582528E+00 6.9370052E-310  6.3844851E+00 4.6889614E-310   -\log\pi_\mathrm{EE\ PolGalDust\ Alpha\ prior}
+minuslogprior__TE_PolGalDust_Amp_prior*     -2.0379834E+00  7.2364635E+00 6.9370052E-310  9.0413720E+00 6.9370052E-310   -\log\pi_\mathrm{TE\ PolGalDust\ Amp\ prior}
+minuslogprior__TE_PolGalDust_Beta_prior*    -2.1490981E+00  6.5046973E+00 6.9370052E-310  6.5250505E+00 6.9370052E-310   -\log\pi_\mathrm{TE\ PolGalDust\ Beta\ prior}
+minuslogprior__TE_PolGalDust_Alpha_prior*   -2.2853938E+00  5.5359621E+00 6.9370052E-310  7.7639460E+00 4.6889615E-310   -\log\pi_\mathrm{TE\ PolGalDust\ Alpha\ prior}
+chi2*                                        4.6581730E+03  4.7034916E+03 6.9370052E-310  4.7130420E+03 6.9370052E-310   \chi^2
+chi2__planck_2018_lowl.TT*                   2.2408750E+01  2.6788631E+01 6.9370052E-310  2.7455815E+01 6.9370052E-310   \chi^2_\mathrm{planck\ 2018\ lowl.TT}
+chi2__planck_2018_lowl.EE*                   3.9562565E+02  4.0943854E+02 6.9370052E-310  4.1445101E+02 4.6889615E-310   \chi^2_\mathrm{planck\ 2018\ lowl.EE}
+chi2__planck_2018_highl_plik.TTTEEE*         2.3491653E+03  2.3817481E+03 6.9370052E-310  2.3913374E+03 6.9370052E-310   \chi^2_\mathrm{planck\ 2018\ highl\ plik.TTTEEE}
+chi2__planck_2018_lensing.clik*              8.3256180E+00  1.6964601E+01 6.9370052E-310  1.8519928E+01 6.9370052E-310   \chi^2_\mathrm{planck\ 2018\ lensing.clik}
+chi2__SPT3G_Y1.TTTEEE*                       1.8826477E+03  1.9177941E+03 6.9370052E-310  1.9250624E+03 4.6889615E-310   \chi^2_\mathrm{SPT3G\ Y1.TTTEEE}
+
