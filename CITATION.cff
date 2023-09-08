@@ -1,0 +1,23 @@
+cff-version: 1
+message: "If you use any of the data files or plots presented here, please cite it as below."
+authors:
+  - family-names: Khalife
+    given-names: Ali Rida
+
+  - family-names: Bahrami Zanjani
+    given-names: Maryam
+
+  - family-names: Guenther
+    given-names: Sven
+
+  - family-names: Galli
+    given-names: Silvia
+
+  - family-names: Lesgourgues
+    given-names: Julien
+
+  - family-names: Benabed
+    given-names: Karim
+
+title: "Suplementary results for: Review of Hubble tension solutions with new SH0ES and SPT-3G data "
+date-released: 2023-09-30
