@@ -1,0 +1,126 @@
+Complete paths: VarMe_Omk_SPTBAO/CLASS VarMe_Omk_PlkBAO/ReRun/CLASS VarMe_Omk_SPTBAOPlk/CLASS VarMe_Omk_ALL/CLASS.post.remove_Pantheon VarMe_Omk_ALL/CLASS
+
+Cosmological Parameters are:  ['omega_b', 'omega_cdm', 'theta_s_1e2', 'n_s', 'clamp'] 
+
+Parameters to be Plotted:  ['omega_b', 'omega_cdm', 'theta_s_1e2', 'n_s', 'clamp', 'varying_me', 'Omega_k', 'm_ncdm', 'H0', 'sigma8'] 
+
+Parameters for H_0 Tension to be Plotted:  ['H0', 'sigma8', 'varying_me', 'Omega_k', 'm_ncdm'] 
+
+
+Mean value of S8 and its std for PlkBAO are = 0.814430 pm 0.020952 
+
+Gaussian Tension of S8 for PlkBAO with KiDS = -1.671989 
+
+
+Mean value of S8 and its std for SPTBAOPlk are = 0.815674 pm 0.020450 
+
+Gaussian Tension of S8 for SPTBAOPlk with KiDS = -1.736625 
+
+
+Mean value of S8 and its std for ALL are = 0.816440 pm 0.020692 
+
+Gaussian Tension of S8 for ALL with KiDS = -1.752752 
+
+
+Mean value of S8 and its std for ALL are = 0.815614 pm 0.019095 
+
+Gaussian Tension of S8 for ALL with KiDS = -1.794229 
+
+########### OLD RESULTS WITH SIGMA8 #######################
+
+Mean value of H0 and its std for SPTBAO are = 67.037734 pm 5.936065 
+
+Gaussian Tension of H0 for SPTBAO with SH0ES = 1.041367 
+
+Mean value of sigma8 and its std for SPTBAO are = 0.680458 pm 0.065250 
+
+Gaussian Tension of sigma8 for SPTBAO with KiDS = 1.155137 
+
+Eigenvalues of CovMat for SPTBAO = [1.57423609e-03 1.15933740e-04 7.63479308e-05 6.82338999e-07
+ 4.55178956e-07] 
+
+Figure of Merit for SPTBAO = 4.327721939769268e-24 
+
+
+Mean value of H0 and its std for PlkBAO are = 69.838596 pm 3.165238 
+
+Gaussian Tension of H0 for PlkBAO with SH0ES = 1.048835 
+
+Mean value of sigma8 and its std for PlkBAO are = 0.816953 pm 0.017941 
+
+Gaussian Tension of sigma8 for PlkBAO with KiDS = -2.006263 
+
+Eigenvalues of CovMat for PlkBAO = [1.42729077e-04 2.28972400e-05 1.50873378e-05 5.84844606e-08
+ 8.75774400e-08] 
+
+Figure of Merit for PlkBAO = 2.5254625885869942e-28 
+
+
+Mean value of H0 and its std for SPTBAOPlk are = 69.721384 pm 3.267319 
+
+Gaussian Tension of H0 for SPTBAOPlk with SH0ES = 1.052997 
+
+Mean value of sigma8 and its std for SPTBAOPlk are = 0.809087 pm 0.017167 
+
+Gaussian Tension of sigma8 for SPTBAOPlk with KiDS = -1.759074 
+
+Eigenvalues of CovMat for SPTBAOPlk = [1.21980081e-04 2.36838654e-05 1.21777136e-05 5.23073556e-08
+ 7.27640413e-08] 
+
+Figure of Merit for SPTBAOPlk = 1.3390192878948e-28 
+
+
+Mean value of H0 and its std for ALL are = 69.485897 pm 3.191321 
+
+Gaussian Tension of H0 for ALL with SH0ES = 1.147266 
+
+Mean value of sigma8 and its std for ALL are = 0.807675 pm 0.016928 
+
+Gaussian Tension of sigma8 for ALL with KiDS = -1.717489 
+
+Eigenvalues of CovMat for ALL = [1.08394318e-04 2.16704882e-05 8.03926030e-06 4.51890759e-08
+ 6.52840504e-08] 
+
+Figure of Merit for ALL = 5.570983249140067e-29 
+
+
+Mean value of H0 and its std for ALL are = 69.768778 pm 2.635129 
+
+Gaussian Tension of H0 for ALL with SH0ES = 1.264542 
+
+Mean value of sigma8 and its std for ALL are = 0.809360 pm 0.016417 
+
+Gaussian Tension of sigma8 for ALL with KiDS = -1.798154 
+
+Eigenvalues of CovMat for ALL = [1.08238260e-04 1.62505401e-05 7.96230703e-06 4.45655887e-08
+ 6.40557909e-08] 
+
+Figure of Merit for ALL = 3.998025563100353e-29 
+
+
+Chi2 a la Gratton-Challinor between SPT+Planck+BAO and SPTBAO = 2.7120313153959703 
+
+PTE a la Gratton-Challinor between SPT+Planck+BAO and SPTBAO = 0.7442776950608792 
+
+Gaussian sigma, which is half of the chi2 PTE, between SPT+Planck+BAO and SPTBAO =0.3261938487860638 
+
+Chi2 a la Gratton-Challinor between SPT+Planck+BAO and PlkBAO = 0.8443141511159878 
+
+PTE a la Gratton-Challinor between SPT+Planck+BAO and PlkBAO = 0.9741211666393524 
+
+Gaussian sigma, which is half of the chi2 PTE, between SPT+Planck+BAO and PlkBAO =0.03243999653341093 
+
+Chi2 a la Gratton-Challinor between SPT+Planck+BAO and ALL = 15.551839381176698 
+
+PTE a la Gratton-Challinor between SPT+Planck+BAO and ALL = 0.008247181261783254 
+
+Gaussian sigma, which is half of the chi2 PTE, between SPT+Planck+BAO and ALL =2.6417791539818634 
+
+Chi2 a la Gratton-Challinor between SPT+Planck+BAO and ALL = 15.551839381176698 
+
+PTE a la Gratton-Challinor between SPT+Planck+BAO and ALL = 0.008247181261783254 
+
+Gaussian sigma, which is half of the chi2 PTE, between SPT+Planck+BAO and ALL =2.6417791539818634 
+
+--- 2.7114290237426757 minutes ---
+
