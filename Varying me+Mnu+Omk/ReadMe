@@ -1,0 +1,5 @@
+In this directory, we include additional results for the Varying electron mass +non-flat universe+ massive neutrinos model studied in arXiv:2312.09814
+Files with ``Set1'' in their name are for data sets: SPT, SPT+Planck and SPT+BAO
+Files with ``Set2'' in their name are for data sets: Planck+BAO; SPT+Planck+BAO; SPT+Planck+BAO+Pantheon; SPT+Planck+BAO+ACT+Pantheon
+Files with ``Cosmo'' in their names are for the full set of cosmological parameters, while files with ``Main'' in their names are only for the main parameters, i.e. H_0, S_8 and 
+the additional parameters of each model.
